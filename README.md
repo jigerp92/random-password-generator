@@ -36,4 +36,6 @@ Provide a short description explaining the what, why, and how of your project. U
  - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures
  - https://www.w3schools.com/js/default.asp
  
+## Mockup
+ 
 ![03-javascript-homework-demo](https://user-images.githubusercontent.com/114956506/200146212-09220479-8b36-4a75-9030-4552681c2c2b.png)
